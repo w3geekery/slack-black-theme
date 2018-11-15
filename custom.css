@@ -285,6 +285,9 @@ ts-message:hover {
    background: var(--background-hover) !important;
 }
 
+#messages_container {
+    background: var(--background) !important;
+}
 #messages_container::after {
    background: none !important;
 }
